@@ -33,7 +33,7 @@ We can **ignore local changes and pull the github repo** using
 -  **git stash** : takes the uncommitted changes saves them in a temporary stack which can be view using **git stash list**.
 - **git pull** 
 
-If we want to revert back the changes made we use **git stash pop**  which takes the most recent stash and applies iut to the working directory and delete that stash entry if **conflicts arises** during stash pop **changes are applies partially** and the **entry is not deleted**. 
+If we want to revert back the changes made we use **git stash pop**  which takes the most recent stash and applies it to the working directory and delete that stash entry if **conflicts arises** during stash pop **changes are applies partially** and the **entry is not deleted**. 
 
 On the otherhand **git stash drop <stash_name >**  deletes the stash entry permanently.
 
