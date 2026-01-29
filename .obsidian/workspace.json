@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Terminal Commands.md",
+                "file": "LLM Engineering/OpenAI Client.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git and Terminal Commands"
+              "title": "OpenAI Client"
             }
           }
         ],
@@ -200,16 +200,16 @@
   },
   "active": "0f2f273e515b137a",
   "lastOpenFiles": [
-    "LLM Engineering/GPT.md",
+    "API.md",
+    "Git and Terminal Commands.md",
+    "LLM Engineering/OpenAI Client.md",
     "LLM Engineering",
     "Pydantic.md",
     "Python Decorators.md",
     "Async Python.md",
     "Python Guides.md",
-    "Git and Terminal Commands.md",
     "Networking Basics.md",
     "Python.md",
-    "API.md",
     "Python Intermidiate.md",
     "Deep Learning/Algorithm Optimization Advanced.md",
     "Attachments/1_-37i5H3lie_x5299utHX4A.png",
