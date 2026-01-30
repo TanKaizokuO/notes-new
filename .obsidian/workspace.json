@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c11d304adff9f36c",
+        "id": "5f47fe8fa2f6d06e",
         "type": "tabs",
         "children": [
           {
-            "id": "a5fc9e3f35c5d63b",
+            "id": "9e173fbfa8180f0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python Guides.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Python Guides"
+              "title": "New tab"
             }
           }
         ]
@@ -183,21 +179,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "a5fc9e3f35c5d63b",
+  "active": "5f3a80379bfbcb11",
   "lastOpenFiles": [
-    "Python Decorators.md",
-    "Python.md",
-    "LLM Engineering/OpenAI Client.md",
-    "LLM Engineering/LLM Competition Game.md",
-    "API.md",
-    "LLM Engineering/Agentic AI.md",
-    "LLM Engineering/Base, Chat & Reasoning Models.md",
-    "Async Python.md",
+    "Untitled.md",
     "LLM Engineering/LLM ENGINEER.md",
+    "LLM Engineering/Context Window.md",
+    "LLM Engineering/Tokens and Tokenizers.md",
+    "LLM Engineering/Deep Research Comparisons.md",
+    "LLM Engineering/Base, Chat & Reasoning Models.md",
+    "LLM Engineering/Agentic AI.md",
     "LLM Engineering/Frontier Models.md",
     "LLM Engineering/Testing Frontier LLMs.md",
-    "LLM Engineering/Deep Research Comparisons.md",
+    "LLM Engineering/LLM Competition Game.md",
     "Python Guides.md",
+    "Transformers",
+    "Transformers/Multi-Head Attention.md",
+    "Transformers/Attention.md",
+    "Transformers/Transformers.md",
+    "Attachments/Transformer,_full_architecture.jpg",
+    "LLM Engineering/OpenAI Client.md",
+    "Python Decorators.md",
+    "Python.md",
+    "API.md",
+    "Async Python.md",
     "Git and Terminal Commands.md",
     "LLM Engineering",
     "Pydantic.md",
@@ -207,12 +211,6 @@
     "Attachments/1_-37i5H3lie_x5299utHX4A.png",
     "Deep Learning/Residual Block (Skip Connection).md",
     "Deep Learning/1D and 3D Generalizations of CNNs.md",
-    "Deep Learning/Basic Vectorization Approaches.md",
-    "Deep Learning/GloVe.md",
-    "Deep Learning/Word2Vec.md",
-    "Deep Learning/Word Analogy Reasoning.md",
-    "Deep Learning/Text Representation.md",
-    "Deep Learning/Sentiment Classification with Embeddings.md",
     "Attachments/Pasted image 20260118235838.png",
     "Attachments/Pasted image 20260118235723.png",
     "Attachments/Pasted image 20260118235632.png",
@@ -221,7 +219,6 @@
     "Attachments/Pasted image 20260118234306.png",
     "Attachments/Pasted image 20260118234152.png",
     "Attachments/Pasted image 20260118233942.png",
-    "Attachments/Pasted image 20260118233752.png",
     "Attachments",
     "Deep Learning"
   ]

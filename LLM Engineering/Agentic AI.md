@@ -28,5 +28,3 @@ LLMs that plan + act autonomously.
 * Research
 * DevOps automation
 
-**Related**:
-* [[Frontier Models]]

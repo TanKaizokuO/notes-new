@@ -43,5 +43,3 @@ State-of-the-art LLMs pushing capability limits.
 | **Cost** | DeepSeek |
 
 ---
-
-**Related**:  [[Testing Frontier LLMs]]
