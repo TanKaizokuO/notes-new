@@ -44,5 +44,24 @@ response.choices[0].message.content
 "Here's one: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible! Honey's unique combination of acidity and water content creates an environment that is hostile to bacteria and other microorganisms, making it virtually immune to spoilage. Isn't that sweet?"
 ```
 ---
+# chat.completions.create Parameters
+```python
+response = openai.chat.completions.create(model=MODEL, messages=easy_puzzle, reasoning_effort="none")
+```
+ - supported values of reasoning_effort are **none, minimal, low, medium, high** and **xhigh**.
+ - [Docs](https://platform.openai.com/docs/api-reference/chat/create)
+---
+## Routers and Abtraction Layers
 
- 
+- Starting with the wonderful OpenRouter.ai - it can connect to all the models above!
+- Visit openrouter.ai and browse the models.
+- Here's one we haven't seen yet: GLM 4.5 from Chinese startup z.ai
+
+```python
+openrouter = OpenAI(base_url=OPENROUTER_URL, api_key=OPENROUTER_KEY)
+
+response = openrouter.chat.completions.create(model="z-ai/glm-4.5", messages=tell_a_joke)
+
+display(Markdown(response.choices[0].message.content))
+```
+---

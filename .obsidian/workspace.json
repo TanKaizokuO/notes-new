@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e173fbfa8180f0c",
+            "id": "91097dd016686639",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Conversational AI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Conversational AI"
             }
           }
         ]
@@ -179,10 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f3a80379bfbcb11",
+  "active": "91097dd016686639",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Attachments/Pasted image 20260131221721.png",
+    "Attachments/Pasted image 20260131221654.png",
+    "LLM Engineering/Gradio.md",
+    "Conversational AI.md",
     "LLM Engineering/LLM ENGINEER.md",
+    "LLM Engineering/Prompt Caching & Conversational Structure.md",
+    "LLM Engineering/OpenAI Client.md",
+    "afhnoiufjhadsjf.md",
     "LLM Engineering/Context Window.md",
     "LLM Engineering/Tokens and Tokenizers.md",
     "LLM Engineering/Deep Research Comparisons.md",
@@ -197,7 +207,6 @@
     "Transformers/Attention.md",
     "Transformers/Transformers.md",
     "Attachments/Transformer,_full_architecture.jpg",
-    "LLM Engineering/OpenAI Client.md",
     "Python Decorators.md",
     "Python.md",
     "API.md",
@@ -206,11 +215,7 @@
     "LLM Engineering",
     "Pydantic.md",
     "Networking Basics.md",
-    "Python Intermidiate.md",
-    "Deep Learning/Algorithm Optimization Advanced.md",
     "Attachments/1_-37i5H3lie_x5299utHX4A.png",
-    "Deep Learning/Residual Block (Skip Connection).md",
-    "Deep Learning/1D and 3D Generalizations of CNNs.md",
     "Attachments/Pasted image 20260118235838.png",
     "Attachments/Pasted image 20260118235723.png",
     "Attachments/Pasted image 20260118235632.png",
@@ -218,7 +223,6 @@
     "Attachments/Pasted image 20260118235327.png",
     "Attachments/Pasted image 20260118234306.png",
     "Attachments/Pasted image 20260118234152.png",
-    "Attachments/Pasted image 20260118233942.png",
     "Attachments",
     "Deep Learning"
   ]
