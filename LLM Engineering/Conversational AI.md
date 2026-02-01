@@ -50,7 +50,6 @@ MODEL = "gpt-4o-mini" # or "gpt-3.5-turbo"
 def chat(message, history):
     # 1. format history explicitly for safety/consistency
     history = [{"role": h["role"], "content": h["content"]} for h in history]
-    
     # 2. Construct the message payload
     # Note: We will define system_message in the next section
     messages = [{"role": "system", "content": system_message}] + history + [{"role": "user", "content": message}]
