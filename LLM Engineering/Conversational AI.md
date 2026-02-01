@@ -7,7 +7,7 @@ created: 2026-01-31
 
 # Building Context-Aware Chatbots with Gradio & OpenAI
 
-This note covers the progression of building a chatbot using [[Gradio]]'s `ChatInterface` and the OpenAI API, moving from a static response to a dynamically prompted AI assistant.
+This note covers the progression of building a chatbot using Gradio's `ChatInterface` and the OpenAI API, moving from a static response to a dynamically prompted AI assistant.
 
 ---
 

@@ -10,5 +10,7 @@ tags:
  [[OpenAI Client]]
  [[Tokens and Tokenizers]]
  [[Prompt Caching & Conversational Structure]]
- [[Gradio]]
+ [[LLM Engineering/Gradio]]
+ [[Conversational AI]]
+ [[Tools]]
  
