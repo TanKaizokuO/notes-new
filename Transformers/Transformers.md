@@ -39,3 +39,5 @@ The Decoder’s job is to "generate" the output (the Target Sequence) one word a
 2. **Long-Range Dependencies:** It’s great at remembering context from the beginning of a long paragraph, which older models struggled with.
 
 ---
+
+[[Archiectures]] 

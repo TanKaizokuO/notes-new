@@ -30,7 +30,7 @@ The **Tokenizer** is a separate, pre-trained component that sits *before* the LL
 2.  **Pre-tokenization:** Splitting inputs by boundaries (whitespace, punctuation).
 3.  **Model:** The core algorithm (e.g., BPE) that applies the merge rules.
 4.  **Post-processing:** Adding special tokens like `[CLS]`, `[SEP]`, or `<|endoftext|>`.
-5. Most modern LLMs (GPT-3, GPT-4, Llama) use [[Byte-Pair Encoding]].
+5. Most modern LLMs (GPT-3, GPT-4, Llama) use Byte-Pair Encoding.
 
 ---
 
@@ -81,8 +81,5 @@ print(enc.decode(tokens))
 
 ---
 ## 7. Relevant Links
-
-- [[LLM Architecture]]
-- [[Embeddings]]
 - [[Context Window]]
 - [OpenAI Tokenizer Tool](https://platform.openai.com/tokenizer)

@@ -14,4 +14,7 @@ tags:
  [[Conversational AI]]
  [[Tools]]
  [[Hugging Face]]
+ [[Loading Llama 3.1 with Quantization]]
+ [[Retrieval Augmented Generation]]
+ 
  

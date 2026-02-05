@@ -4,30 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "553e1ae2d0e9f969",
+        "id": "fa1cda7e12d145fb",
         "type": "tabs",
         "children": [
           {
-            "id": "42894d4f83531cec",
+            "id": "dcfadeaa0160f78a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Git and Terminal Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git and Terminal Commands"
             }
           },
           {
-            "id": "d1cb8fb6f39239ec",
+            "id": "64d3debb8fb703c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "RAG Implementation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG Implementation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Git and Terminal Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Git and Terminal Commands"
             }
           },
           {
@@ -119,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Git and Terminal Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Git and Terminal Commands"
             }
           },
           {
@@ -162,16 +171,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Git and Terminal Commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Git and Terminal Commands"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,36 +199,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "42894d4f83531cec",
+  "active": "64d3debb8fb703c0",
   "lastOpenFiles": [
-    "LLM Engineering/Colab and HF_Pipelines.md",
-    "Untitled.md",
-    "Colab Tips.md",
+    "Git and Terminal Commands.md",
+    "RAG Implementation.md",
+    "LLM Engineering/Vectorstores.md",
+    "LLM Engineering/Embedding Models.md",
     "LLM Engineering/Hugging Face.md",
+    "LLM Engineering/LangChain.md",
+    "LLM Engineering/Conversational AI.md",
+    "LLM Engineering/LLM ENGINEER.md",
+    "LLM Engineering/Retrieval Augmented Generation.md",
+    "Transformers/Anatomy of a Transformer Model.md",
+    "Untitled 2.md",
+    "LLM Engineering/Archiectures.md",
+    "LLM Engineering/Loading Llama 3.1 with Quantization.md",
+    "LLM Engineering/Streaming, Generation & Memory Management.md",
+    "LLM Engineering/Llama.md",
+    "Transformers/Transformers.md",
+    "LLM Engineering/Tokens and Tokenizers.md",
+    "LLM Engineering/Colab and HF_Pipelines.md",
+    "Colab Tips.md",
     "LLM Engineering/The Tool Loop (While Loop).md",
     "LLM Engineering/Tools.md",
-    "LLM Engineering/LLM ENGINEER.md",
     "LLM Engineering/Handling a Single Tool Call.md",
-    "LLM Engineering/Conversational AI.md",
     "LLM Engineering/OpenAI Client.md",
     "LLM Engineering/Multimodal Chatbot.md",
     "LLM Engineering/Gradio.md",
     "LLM Engineering/Gradio Working.md",
-    "LLM Engineering/Connecting Tools to Databases.md",
-    "LLM Engineering/Handling Multiple Tool Calls.md",
-    "Function Calling Concept.md",
     "Attachments/Pasted image 20260131221721.png",
     "Attachments/Pasted image 20260131221654.png",
-    "LLM Engineering/Prompt Caching & Conversational Structure.md",
-    "afhnoiufjhadsjf.md",
-    "LLM Engineering/Context Window.md",
-    "LLM Engineering/Tokens and Tokenizers.md",
-    "LLM Engineering/Deep Research Comparisons.md",
-    "LLM Engineering/Base, Chat & Reasoning Models.md",
-    "LLM Engineering/Agentic AI.md",
-    "LLM Engineering/Frontier Models.md",
-    "LLM Engineering/Testing Frontier LLMs.md",
-    "LLM Engineering/LLM Competition Game.md",
     "Transformers",
     "Attachments/Transformer,_full_architecture.jpg",
     "LLM Engineering",

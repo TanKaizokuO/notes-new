@@ -94,7 +94,7 @@ but remind the customer to look at hats!"
 
 ## 4. Dynamic Context Injection (RAG-lite)
 
-Instead of a massive static system prompt, we can inject specific instructions **conditionally** based on what the user types. This is a primitive form of [[RAG]] (Retrieval Augmented Generation).
+Instead of a massive static system prompt, we can inject specific instructions **conditionally** based on what the user types. This is a primitive form of [[Retrieval Augmented Generation|RAG]] (Retrieval Augmented Generation).
 
 **Scenario:** The prompt changes _only_ if the user mentions "belts".
 
