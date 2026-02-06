@@ -1,7 +1,7 @@
 ---
 created: 2026-02-05
 tags:
-  - extension
+  - main
 ---
 ---
 ### RAG Implementation
