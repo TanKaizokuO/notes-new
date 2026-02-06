@@ -4,7 +4,7 @@ tags:
   - main
 ---
 ---
-# Advanced RAG: Semantic Chunking, Visualization & Reranking
+# Advanced [[Retrieval Augmented Generation|RAG]]: Semantic Chunking, Visualization & Reranking
 
 Moving beyond "Basic RAG" (simple character splitting), this note covers **Advanced RAG** patterns. The core philosophy here is **"Intelligence over Speed"**—using LLMs during the ingestion and retrieval stages to improve quality.
 

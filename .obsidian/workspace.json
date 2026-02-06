@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced RAG.md",
+                "file": "LLM Engineering/Advanced RAG.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,10 +199,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "40984bf2f9164201",
+  "active": "5f3a80379bfbcb11",
   "lastOpenFiles": [
     "LLM Engineering/RAG Evaluation.md",
-    "Advanced RAG.md",
+    "LLM Engineering/Advanced RAG.md",
     "Git and Terminal Commands.md",
     "LLM Engineering/RAG Implementation.md",
     "LLM Engineering/Vectorstores.md",
