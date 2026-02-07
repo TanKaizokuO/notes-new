@@ -27,16 +27,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Engineering/Advanced RAG.md",
+                "file": "Deep Learning/EfficientNet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced RAG"
+              "title": "EfficientNet"
+            }
+          },
+          {
+            "id": "68e23865ab0b4624",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "057dcd5a16105778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chunking Strategies with code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chunking Strategies with code"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,11 +225,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f3a80379bfbcb11",
+  "active": "057dcd5a16105778",
   "lastOpenFiles": [
-    "LLM Engineering/RAG Evaluation.md",
-    "LLM Engineering/Advanced RAG.md",
+    "Chunking Strategies with code.md",
+    "Deep Learning/Algorithm Optimization.md",
+    "Deep Learning/Sequence Model Notation (NER).md",
+    "Deep Learning/Hyperparameter Tuning.md",
+    "Deep Learning/Harris Corner Detector.md",
+    "Deep Learning/LBP.md",
     "Git and Terminal Commands.md",
+    "Advanced RAG.md",
+    "LLM Engineering/RAG Evaluation.md",
     "LLM Engineering/RAG Implementation.md",
     "LLM Engineering/Vectorstores.md",
     "LLM Engineering/Embedding Models.md",
@@ -221,12 +253,6 @@
     "Transformers/Transformers.md",
     "LLM Engineering/Tokens and Tokenizers.md",
     "LLM Engineering/Colab and HF_Pipelines.md",
-    "Colab Tips.md",
-    "LLM Engineering/The Tool Loop (While Loop).md",
-    "LLM Engineering/Tools.md",
-    "LLM Engineering/Handling a Single Tool Call.md",
-    "LLM Engineering/OpenAI Client.md",
-    "LLM Engineering/Multimodal Chatbot.md",
     "Attachments/Pasted image 20260131221721.png",
     "Attachments/Pasted image 20260131221654.png",
     "Transformers",
